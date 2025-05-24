@@ -21,7 +21,7 @@ Trois approches sont comparées :
 ## 🚀 Exécution
 
 1️⃣ Cloner le dépôt :
-```bash
+
 git clone https://github.com/KADA-SEDODE/kalman-crypto-forecast.git
 ---
 
