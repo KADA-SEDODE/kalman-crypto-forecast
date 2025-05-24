@@ -23,6 +23,15 @@ Trois approches sont comparées :
 1️⃣ Cloner le dépôt :
 
 git clone https://github.com/KADA-SEDODE/kalman-crypto-forecast.git
+
+2️⃣ Installer tous les packages nécessaires :
+
+pip install -r requirements.txt
+
+3️⃣ Naviguer dans le notebook et exécuter toutes les cellules :
+
+jupyter notebook Code/kalman_programme.ipynb
+
 ---
 
 👥 Réalisé par
