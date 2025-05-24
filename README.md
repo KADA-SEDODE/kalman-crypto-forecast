@@ -27,7 +27,7 @@ git clone https://github.com/KADA-SEDODE/kalman-crypto-forecast.git
 
 👥 Réalisé par
 
-Bethuel ASSE
-Dimitri GUIFT
-Samanta LAMOUR
+Bethuel ASSE &
+Dimitri GUIFT &
+Samanta LAMOUR &
 Kokouvi KADA-SEDODE
