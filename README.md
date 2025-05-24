@@ -22,4 +22,12 @@ Trois approches sont comparées :
 
 1️⃣ Cloner le dépôt :
 ```bash
-git clone <URL_DU_REPO>
+git clone https://github.com/KADA-SEDODE/kalman-crypto-forecast.git
+---
+
+👥 Réalisé par
+
+Bethuel ASSE
+Dimitri GUIFT
+Samanta LAMOUR
+Kokouvi KADA-SEDODE
